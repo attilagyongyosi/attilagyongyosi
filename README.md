@@ -5,9 +5,9 @@ Here is my face ⬇️
 🤵 I am currently a software development team leader @ EPAM, getting ready to take the next steps in my career
 
 - 🔭 I am currently working on the next release of my [path-linter](https://github.com/attilagyongyosi/path-linter) library
-- 🌱 I am currently learning advanced React stuff and diving deep into OData  
+- 🌱 I am currently messing around with ESBuild, NestJS and several AWS services
 - 📚 I am currently reading ["The Psychology of Computer Programming"](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary-ebook/dp/B004R9QACC/)
-- 🎧 I am currently listening to ["Bad Blood: Secrets and Lies in a Silicon Valley Startup"](https://www.amazon.com/Bad-Blood-John-Carreyrou-audiobook/dp/B07BMCMS5L/ref=tmm_aud_swatch_0) as an audiobook
+- 🎧 I am currently listening to ["The Simple Path to Wealth"](https://www.amazon.com/The-Simple-Path-to-Wealth-audiobook/dp/B0725RFDPY) as an audiobook
 - 📫 How to reach me: shout at me here on GitHub, find me at [StackOverflow](https://stackoverflow.com/users/2516754/attila-gyongyosi) or [LinkedIn](https://www.linkedin.com/in/attila-gyongyosi/)
 - ⚡ Fun fact: there is a heart-shaped vein on my left arm
 
