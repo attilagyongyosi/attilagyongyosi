@@ -6,7 +6,7 @@ Here is my face ⬇️
 
 - 🔭 I am currently working on the next release of my [path-linter](https://github.com/attilagyongyosi/path-linter) library
 - 🌱 I am currently messing around with ESBuild, NestJS and several AWS services
-- 🔖 I am currently reading ["The Formula - Universal Laws of Success"](https://barabasi.com/book/the-formula) as a physical, good old fashioned book
+- 🔖 I am currently reading ["How To Archer"](https://www.amazon.com/How-Archer-Ultimate-Espionage-Cocktails/dp/0062066315) as a physical, good old fashioned book
 - 📚 I am currently reading [Jeffery Deaver's "Stone Monkey"](https://www.amazon.com/Stone-Monkey-Lincoln-Rhyme-Book-ebook/dp/B002V092PG) on my Kindle
 - 🎧 I am currently listening to ["Software Engineering at Google - Lessons Learned from Programming Over Time"](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791) as an audiobook
 - 📫 How to reach me: shout at me here on GitHub, find me at [StackOverflow](https://stackoverflow.com/users/2516754/attila-gyongyosi) or [LinkedIn](https://www.linkedin.com/in/attila-gyongyosi/)
