@@ -7,7 +7,7 @@ Here is my face ⬇️
 - 🔭 I am currently working on my personal website and blog.
 - 🌱 I am currently messing around with ESBuild, NestJS and several AWS services
 - 🔖 I am currently reading ["Elon Musk - Tesla, SpaceX, and the Quest for a Fantastic Future"](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X) as a physical, good old fashioned book
-- 📚 I am currently reading [Eddie Jaku's "Happiest Man On Earth"](https://www.amazon.com/Happiest-Man-Earth-Beautiful-Auschwitz-ebook/dp/B08LVS5Q9K) on my Kindle
+- 📚 I am currently reading [Marie Kondo's "The Life-Changing Magic of Tidying"](https://www.amazon.com/Life-Changing-Magic-Tidying-effective-clutter-ebook/dp/B00I0C46BO) on my Kindle
 - 🎧 I am currently listening to ["Software Engineering at Google - Lessons Learned from Programming Over Time"](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791) as an audiobook
 - 📫 How to reach me: shout at me here on GitHub, find me at [StackOverflow](https://stackoverflow.com/users/2516754/attila-gyongyosi) or [LinkedIn](https://www.linkedin.com/in/attila-gyongyosi/)
 - ⚡ Fun fact: there is a heart-shaped vein on my left arm
