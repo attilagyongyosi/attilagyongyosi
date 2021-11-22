@@ -21,3 +21,6 @@
 - [How to Archer: The Ultimate Guide to Espionage and Style and Women and Also Cocktails Ever Written](https://www.goodreads.com/review/show/4223803588?utm_medium=api&utm_source=rss)
 - [The Formula: The Universal Laws of Success](https://www.goodreads.com/review/show/3938700517?utm_medium=api&utm_source=rss)
 <!-- RECENT-BOOKS:END -->
+
+### 📊 Coding Stats
+![WakaTime Stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=attilagyongyosi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
