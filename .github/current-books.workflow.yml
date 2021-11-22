@@ -1,0 +1,17 @@
+name: Current Books Feed Update
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * MON' # Runs every Monday at midnight
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called)
+
+jobs:
+  update-current-books-feed:
+    name: Updating README with latest state of books I'm currently consuming
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Fetch Goodreads RSS Feed
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.goodreads.com/review/list_rss/53462228?key=-XyoRA1GdOfnI7rJtcJgxfI7SAtohonW642UVcymIeedJAsb&shelf=currently-reading"
