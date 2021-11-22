@@ -15,4 +15,9 @@
 
 ### 📘 Books I've Read Recently
 <!-- RECENT-BOOKS:START -->
+- [The Happiest Man on Earth: The Beautiful Life of an Auschwitz Survivor](https://www.goodreads.com/review/show/4286034974?utm_medium=api&utm_source=rss)
+- [The Girl with Seven Names: A North Korean Defector&#39;s Story](https://www.goodreads.com/review/show/4219636437?utm_medium=api&utm_source=rss)
+- [The Stone Monkey &lpar;Lincoln Rhyme, #4&rpar;](https://www.goodreads.com/review/show/4051819930?utm_medium=api&utm_source=rss)
+- [How to Archer: The Ultimate Guide to Espionage and Style and Women and Also Cocktails Ever Written](https://www.goodreads.com/review/show/4223803588?utm_medium=api&utm_source=rss)
+- [The Formula: The Universal Laws of Success](https://www.goodreads.com/review/show/3938700517?utm_medium=api&utm_source=rss)
 <!-- RECENT-BOOKS:END -->
