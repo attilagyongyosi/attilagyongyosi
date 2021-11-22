@@ -15,7 +15,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "CURRENT-BOOKS"
-          feed_list: "https://www.goodreads.com/review/list_rss/53462228?key=-XyoRA1GdOfnI7rJtcJgxfI7SAtohonW642UVcymIeedJAsb&shelf=currently-reading"
+          feed_list: "https://www.goodreads.com/review/list_rss/53462228?shelf=currently-reading"
           commit_message: "chore(books): auto-updating current book feed"
           committer_username: "Attila Gyöngyösi"
           committer_email: "attilagyongyosi0@gmail.com"
