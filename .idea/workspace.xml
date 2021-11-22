@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2bb423-b20e-4f95-a80c-697cf89bc3c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github-personal-repo-image.png" beforeDir="false" />
-    </list>
+    <list default="true" id="cb2bb423-b20e-4f95-a80c-697cf89bc3c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637410608936</updated>
       <workItem from="1637410611412" duration="1583000" />
-      <workItem from="1637602408729" duration="2185000" />
+      <workItem from="1637602408729" duration="2239000" />
     </task>
     <servers />
   </component>
