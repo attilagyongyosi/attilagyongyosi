@@ -23,7 +23,7 @@
 <!-- RECENT-BOOKS:END -->
 
 ### 📊 Coding Stats
-![WakaTime Stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=attilagyongyosi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=attilagyongyosi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 ### 📊 GitHub Activity
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=attilagyongyosi&theme=tokyonight&show_icons=true&count_private=true)
