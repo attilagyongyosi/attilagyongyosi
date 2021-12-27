@@ -8,8 +8,8 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
+- [A Thousand Splendid Suns](https://www.goodreads.com/review/show/4203960889?utm_medium=api&utm_source=rss)
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/4281041249?utm_medium=api&utm_source=rss)
-- [The Life-Changing Magic of Tidying](https://www.goodreads.com/review/show/4252861904?utm_medium=api&utm_source=rss)
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/3750630499?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
