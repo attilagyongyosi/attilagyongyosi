@@ -8,8 +8,8 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
+- [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/review/show/4520400310?utm_medium=api&utm_source=rss)
 - [Lily&#39;s Promise: How I Survived Auschwitz and Found the Strength to Live](https://www.goodreads.com/review/show/4509345666?utm_medium=api&utm_source=rss)
-- [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/4281041249?utm_medium=api&utm_source=rss)
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/3750630499?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
