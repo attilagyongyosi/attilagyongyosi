@@ -15,11 +15,11 @@
 
 ### 📘 Books I've Read Recently
 <!-- RECENT-BOOKS:START -->
+- [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/review/show/4520400310?utm_medium=api&utm_source=rss)
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/3750630499?utm_medium=api&utm_source=rss)
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/4281041249?utm_medium=api&utm_source=rss)
 - [A Thousand Splendid Suns](https://www.goodreads.com/review/show/4203960889?utm_medium=api&utm_source=rss)
 - [The Life-Changing Magic of Tidying](https://www.goodreads.com/review/show/4252861904?utm_medium=api&utm_source=rss)
-- [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/review/show/3801988669?utm_medium=api&utm_source=rss)
 <!-- RECENT-BOOKS:END -->
 
 ### 📊 Coding Stats
