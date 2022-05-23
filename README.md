@@ -10,7 +10,6 @@
 <!-- CURRENT-BOOKS:START -->
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/4554878163?utm_medium=api&utm_source=rss)
 - [The Magic of Thinking Big](https://www.goodreads.com/review/show/4520400601?utm_medium=api&utm_source=rss)
-- [Mulat a Manézs](https://www.goodreads.com/review/show/4621942657?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
 ### 📘 Books I've Read Recently
