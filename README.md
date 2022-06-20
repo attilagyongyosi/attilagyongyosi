@@ -8,9 +8,9 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
+- [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals](https://www.goodreads.com/review/show/4684729366?utm_medium=api&utm_source=rss)
 - [Tömegparanoia ​2.0](https://www.goodreads.com/review/show/4740649812?utm_medium=api&utm_source=rss)
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/4554878163?utm_medium=api&utm_source=rss)
-- [The Magic of Thinking Big](https://www.goodreads.com/review/show/4520400601?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
 ### 📘 Books I've Read Recently
