@@ -15,11 +15,11 @@
 
 ### 📘 Books I've Read Recently
 <!-- RECENT-BOOKS:START -->
+- [How to Win Friends and Influence People](https://www.goodreads.com/review/show/4520396643?utm_medium=api&utm_source=rss)
+- [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/4554878163?utm_medium=api&utm_source=rss)
 - [Tömegparanoia ​2.0](https://www.goodreads.com/review/show/4740649812?utm_medium=api&utm_source=rss)
 - [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals](https://www.goodreads.com/review/show/4684729366?utm_medium=api&utm_source=rss)
 - [The Magic of Thinking Big](https://www.goodreads.com/review/show/4520400601?utm_medium=api&utm_source=rss)
-- [Mulat a Manézs](https://www.goodreads.com/review/show/4621942657?utm_medium=api&utm_source=rss)
-- [Lily&#39;s Promise: How I Survived Auschwitz and Found the Strength to Live](https://www.goodreads.com/review/show/4509345666?utm_medium=api&utm_source=rss)
 <!-- RECENT-BOOKS:END -->
 
 ### 📊 Coding Stats
