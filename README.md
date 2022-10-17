@@ -8,6 +8,7 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
+- [The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life: Before 8AM](https://www.goodreads.com/review/show/4927299241?utm_medium=api&utm_source=rss)
 - [You Are Here: Discovering the Magic of the Present Moment](https://www.goodreads.com/review/show/5029463546?utm_medium=api&utm_source=rss)
 - [Történtek hibák &lpar;de nem én tehetek róluk&rpar; Az önigazolás lélektana](https://www.goodreads.com/review/show/4408603064?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
