@@ -15,11 +15,11 @@
 
 ### 📘 Books I've Read Recently
 <!-- RECENT-BOOKS:START -->
+- [You Are Here: Discovering the Magic of the Present Moment](https://www.goodreads.com/review/show/5029463546?utm_medium=api&utm_source=rss)
 - [The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life: Before 8AM](https://www.goodreads.com/review/show/4927299241?utm_medium=api&utm_source=rss)
 - [How to Win Friends and Influence People](https://www.goodreads.com/review/show/4520396643?utm_medium=api&utm_source=rss)
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/4554878163?utm_medium=api&utm_source=rss)
 - [Tömegparanoia ​2.0](https://www.goodreads.com/review/show/4740649812?utm_medium=api&utm_source=rss)
-- [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals](https://www.goodreads.com/review/show/4684729366?utm_medium=api&utm_source=rss)
 <!-- RECENT-BOOKS:END -->
 
 ### 📊 Coding Stats
