@@ -8,7 +8,7 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
-- [In Order To Live: A North Korean Girl&#39;s Journey to Freedom](https://www.goodreads.com/review/show/4319537464?utm_medium=api&utm_source=rss)
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/1574742657?utm_medium=api&utm_source=rss)
 - [Can&#39;t Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/4927297999?utm_medium=api&utm_source=rss)
 - [Történtek hibák &lpar;de nem én tehetek róluk&rpar; Az önigazolás lélektana](https://www.goodreads.com/review/show/4408603064?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
