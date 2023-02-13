@@ -10,7 +10,6 @@
 <!-- CURRENT-BOOKS:START -->
 - [Stolen Focus: Why You Can&#39;t Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/5147342121?utm_medium=api&utm_source=rss)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/1574742657?utm_medium=api&utm_source=rss)
-- [Történtek hibák &lpar;de nem én tehetek róluk&rpar; Az önigazolás lélektana](https://www.goodreads.com/review/show/4408603064?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
 ### 📘 Books I've Read Recently
