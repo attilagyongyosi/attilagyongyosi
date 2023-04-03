@@ -15,11 +15,11 @@
 
 ### 📘 Books I've Read Recently
 <!-- RECENT-BOOKS:START -->
+- [Stolen Focus: Why You Can&#39;t Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/5147342121?utm_medium=api&utm_source=rss)
 - [Variációk boldogtalanságra](https://www.goodreads.com/review/show/5344138749?utm_medium=api&utm_source=rss)
 - [Történtek hibák &lpar;de nem én tehetek róluk&rpar; Az önigazolás lélektana](https://www.goodreads.com/review/show/4408603064?utm_medium=api&utm_source=rss)
 - [Can&#39;t Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/4927297999?utm_medium=api&utm_source=rss)
 - [In Order To Live: A North Korean Girl&#39;s Journey to Freedom](https://www.goodreads.com/review/show/4319537464?utm_medium=api&utm_source=rss)
-- [You Are Here: Discovering the Magic of the Present Moment](https://www.goodreads.com/review/show/5029463546?utm_medium=api&utm_source=rss)
 <!-- RECENT-BOOKS:END -->
 
 ### 📊 Coding Stats
