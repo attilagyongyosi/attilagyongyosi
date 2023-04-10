@@ -8,7 +8,8 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
-- [A Pendragon Legenda](https://www.goodreads.com/review/show/5357204782?utm_medium=api&utm_source=rss)
+- [Idiótákkal körülvéve - Hogyan értsük meg azokat, akiket lehetetlen megérteni?](https://www.goodreads.com/review/show/5190456469?utm_medium=api&utm_source=rss)
+- [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/review/show/5442110416?utm_medium=api&utm_source=rss)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/1574742657?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
