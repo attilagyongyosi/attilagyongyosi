@@ -10,7 +10,7 @@
 <!-- CURRENT-BOOKS:START -->
 - [Idiótákkal körülvéve - Hogyan értsük meg azokat, akiket lehetetlen megérteni?](https://www.goodreads.com/review/show/5190456469?utm_medium=api&utm_source=rss)
 - [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/review/show/5442110416?utm_medium=api&utm_source=rss)
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/1574742657?utm_medium=api&utm_source=rss)
+- [Pragmatic Programmer, The: From Journeyman to Master](https://www.goodreads.com/review/show/1574742657?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
 ### 📘 Books I've Read Recently
