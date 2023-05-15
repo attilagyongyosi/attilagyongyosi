@@ -8,6 +8,7 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
+- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5500328748?utm_medium=api&utm_source=rss)
 - [My Hygge Home: How to Make Home Your Happy Place](https://www.goodreads.com/review/show/5535486705?utm_medium=api&utm_source=rss)
 - [Idiótákkal körülvéve - Hogyan értsük meg azokat, akiket lehetetlen megérteni?](https://www.goodreads.com/review/show/5190456469?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
