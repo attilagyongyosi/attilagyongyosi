@@ -8,6 +8,7 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
+- [Utas és holdvilág](https://www.goodreads.com/review/show/4871479850?utm_medium=api&utm_source=rss)
 - [Félelembuborék](https://www.goodreads.com/review/show/5605526544?utm_medium=api&utm_source=rss)
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5500328748?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
