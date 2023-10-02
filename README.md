@@ -9,7 +9,6 @@
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/review/show/5558990692?utm_medium=api&utm_source=rss)
-- [Utas és holdvilág](https://www.goodreads.com/review/show/4871479850?utm_medium=api&utm_source=rss)
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5500328748?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
