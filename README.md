@@ -15,11 +15,11 @@
 
 ### 📘 Books I've Read Recently
 <!-- RECENT-BOOKS:START -->
+- [Utas és holdvilág](https://www.goodreads.com/review/show/4871479850?utm_medium=api&utm_source=rss)
 - [Félelembuborék](https://www.goodreads.com/review/show/5605526544?utm_medium=api&utm_source=rss)
 - [My Hygge Home: How to Make Home Your Happy Place](https://www.goodreads.com/review/show/5535486705?utm_medium=api&utm_source=rss)
 - [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/review/show/5442110416?utm_medium=api&utm_source=rss)
 - [Pragmatic Programmer, The: From Journeyman to Master](https://www.goodreads.com/review/show/1574742657?utm_medium=api&utm_source=rss)
-- [A Pendragon legenda &lpar;Hungarian Edition&rpar;](https://www.goodreads.com/review/show/5357204782?utm_medium=api&utm_source=rss)
 <!-- RECENT-BOOKS:END -->
 
 ### 📊 Coding Stats
