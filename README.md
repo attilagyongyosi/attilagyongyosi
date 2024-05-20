@@ -8,7 +8,7 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
-- [Normális vagy: Trauma, betegség és gyógyulás mérgező világunkban](https://www.goodreads.com/review/show/5912650506?utm_medium=api&utm_source=rss)
+- [A tizennégy karátos autó](https://www.goodreads.com/review/show/6501390403?utm_medium=api&utm_source=rss)
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5500328748?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
