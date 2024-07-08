@@ -15,11 +15,11 @@
 
 ### 📘 Books I've Read Recently
 <!-- RECENT-BOOKS:START -->
+- [A tizennégy karátos autó](https://www.goodreads.com/review/show/6501390403?utm_medium=api&utm_source=rss)
 - [The Creative Act: A Way of Being](https://www.goodreads.com/review/show/5439525121?utm_medium=api&utm_source=rss)
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/review/show/5558990692?utm_medium=api&utm_source=rss)
 - [Utas és holdvilág](https://www.goodreads.com/review/show/4871479850?utm_medium=api&utm_source=rss)
 - [Félelembuborék](https://www.goodreads.com/review/show/5605526544?utm_medium=api&utm_source=rss)
-- [My Hygge Home: How to Make Home Your Happy Place](https://www.goodreads.com/review/show/5535486705?utm_medium=api&utm_source=rss)
 <!-- RECENT-BOOKS:END -->
 
 ### 📊 Coding Stats
