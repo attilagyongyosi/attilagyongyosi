@@ -8,6 +8,7 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
+- [A pepita macska: emlékek kicsiny könyve](https://www.goodreads.com/review/show/6659887529?utm_medium=api&utm_source=rss)
 - [Ready Steady Go: My Unstoppable Journey in Dance](https://www.goodreads.com/review/show/4998611168?utm_medium=api&utm_source=rss)
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5500328748?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
