@@ -8,9 +8,8 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
-- [Moonwalking with Einstein: The Art and Science of Remembering Everything](https://www.goodreads.com/review/show/4992713507?utm_medium=api&utm_source=rss)
-- [A pepita macska: emlékek kicsiny könyve](https://www.goodreads.com/review/show/6659887529?utm_medium=api&utm_source=rss)
-- [Outlive: The Science &amp; Art of Longevity](https://www.goodreads.com/review/show/5500328748?utm_medium=api&utm_source=rss)
+- [Őszinteség](https://www.goodreads.com/review/show/8024086263?utm_medium=api&utm_source=rss)
+- [Journey to the West &lpar;4-Volume Boxed Set&rpar;](https://www.goodreads.com/review/show/8024085445?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
 
 ### 📘 Books I've Read Recently
