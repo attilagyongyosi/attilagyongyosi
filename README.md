@@ -8,6 +8,7 @@
 
 ### 📚 Books I'm Reading or Listening To
 <!-- CURRENT-BOOKS:START -->
+- [The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery](https://www.goodreads.com/review/show/8044340033?utm_medium=api&utm_source=rss)
 - [Őszinteség](https://www.goodreads.com/review/show/8024086263?utm_medium=api&utm_source=rss)
 - [Journey to the West &lpar;4-Volume Boxed Set&rpar;](https://www.goodreads.com/review/show/8024085445?utm_medium=api&utm_source=rss)
 <!-- CURRENT-BOOKS:END -->
